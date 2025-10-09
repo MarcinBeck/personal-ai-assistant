@@ -1,0 +1,9 @@
+# Ignorowanie środowisk wirtualnych i zależności
+venv/
+node_modules/
+
+# Ignorowanie plików systemowych i sekretów
+*.env
+.env
+__pycache__/
+*.pyc
